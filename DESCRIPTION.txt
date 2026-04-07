@@ -1,0 +1,1 @@
+Gym Membership Management System - A Java console application demonstrating OOP with member management, VAT calculations, and discount eligibility
